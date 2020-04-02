@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+div {
+    margin-bottom: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div>p {
+    font-size: 40px;
+    text-align: center;
+}
+
+.evo>p {
+    color: red;
+}
+
+.r34>p {
+    color: blueviolet;
+}
+
+.subi>p {
+    color: blue;
+}
